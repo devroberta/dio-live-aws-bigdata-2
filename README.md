@@ -1,4 +1,4 @@
-**Material do Curso Introdução a Engenharia de Dados na AWS
+## >> Material do Curso Introdução a Engenharia de Dados na AWS <<
 
 # Instruções para atividade prática
 Repositório para a Live de 24/06/2021
